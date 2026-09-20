@@ -1,0 +1,3 @@
+Built-in imagegen edit; source: ChatGPT Image Sep 20, 2026, 03_15_05 PM.png.
+Prompt: Use case: background-extraction. Edit target: supplied Zuri Apps logo. Remove only the exterior black padding outside the rounded-square icon; make exterior genuinely transparent, and tightly frame the rounded-square icon to fill the image. Preserve the entire original rounded-square nebula artwork, white ZA monogram, blue-purple ring, stars and colors exactly. Keep dark background INSIDE icon opaque. No redesign, no added text. Output transparent PNG for website logo/favicon.
+Website assets: assets/zuri-logo.png (256px), assets/favicon-32.png (32px), assets/apple-touch-icon.png (180px). Resized using macOS sips.
